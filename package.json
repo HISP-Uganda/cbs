@@ -1,0 +1,14 @@
+{
+  "name": "cbs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.1",
+    "fhir.js": "^0.0.22",
+    "lodash": "^4.17.21",
+    "pg": "^8.7.3",
+    "pg-format": "^1.0.4"
+  }
+}
